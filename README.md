@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About me
 
-I'm a Test Automation Engineer from 🇵🇱
+I'm a ~~Test Automation Engineer~~ from 🇵🇱
 >- Mainly working with Java, Selenium, RestAssured 💻  
 >- Interested in programming, investing, web3 👾 
 >- like playing games, watching movies & TVshows 🎥
